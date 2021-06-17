@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammadjihas
 - 👀 I’m interested in network security
 - 🌱 I’m currently learning OSCP & CISSP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ...
 
 <!---
