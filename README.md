@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadjihas
 - 👀 I’m interested in Cyber and Network security
-- 🌱 I’m currently Pursuing OS PEN-200,PEN-210,PEN-300, CISM & CISSP.
+- 🌱 Tech Sleuth
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-jihas-k-m-a301ba64/...
 
