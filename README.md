@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadjihas
 - 👀 I’m interested in Cyber and Network security
-- 🌱 Tech Sleuth
+- 🌱 Tech-Boff!n
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-jihas-k-m-a301ba64/...
 
